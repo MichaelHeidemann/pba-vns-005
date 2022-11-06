@@ -86,7 +86,7 @@ Was hier nicht zu tun ist: Korrekturschritte, die später viel effizienter mitte
 
 edit Heidi:
 Offensichtlich fehlende Wörter in den Abschriften werden in eckigen Klammern ergänzt. 
-Offentsichtliche Tippfehler in den Abschriften werden stillschweigend korrigiert.
+Offensichtliche Tippfehler in den Abschriften werden stillschweigend korrigiert.
 Offensichtliche Kommafehler in den Abschriften werden stillschweigend korrigiert.
 
 
